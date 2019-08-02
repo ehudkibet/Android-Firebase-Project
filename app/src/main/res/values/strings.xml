@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Morning Firebase Project</string>
+    <string name="editName">Name Here</string>
+</resources>

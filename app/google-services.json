@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "447886948811",
+    "firebase_url": "https://mymorningfirebaseproject-97d03.firebaseio.com",
+    "project_id": "mymorningfirebaseproject-97d03",
+    "storage_bucket": "mymorningfirebaseproject-97d03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447886948811:android:cc71469a42484096",
+        "android_client_info": {
+          "package_name": "com.example.mymorningfirebaseproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447886948811-f7ks91uk94m943b22scua6uchv61plfv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mymorningfirebaseproject",
+            "certificate_hash": "bee7bd732424708e737928f07dbbaba2aff541a4"
+          }
+        },
+        {
+          "client_id": "447886948811-0taj6pq4f5lmdkn0j7g122qep7ljij4k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYHWKXUjuq532aGh0qXoNPKExU7cEkw8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447886948811-0taj6pq4f5lmdkn0j7g122qep7ljij4k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
